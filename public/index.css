@@ -1,0 +1,25 @@
+.fetchData{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+.fetchData button{
+    display: flex;
+    align-items: center;
+    font-size: .5rem;
+    height: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    padding:1rem 2rem;
+    background: cornsilk;
+    border-radius: .7rem;
+
+}
+#displayDataFromServer{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#makeitbetter{
+    display: flex;
+}
